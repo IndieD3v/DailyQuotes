@@ -4,4 +4,4 @@
 #### In this you will get all the famous random quotes of famous persons. 
 
 # Images
-![Alt text](IndieD3v.DailyQuotes-DJANGO/Screenshot from 2020-10-10 12-20-55.png?raw=true "Title")
+![Alt text](IndieD3v.DailyQuotes-DJANGO/Screenshot from 2020-10-10 12-20-55.png ?raw=true "Title")
