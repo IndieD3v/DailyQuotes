@@ -1,5 +1,6 @@
 # Quotes
  
-## This is a Daily Random Quotes Generator in the form of a web app.
+## This is a Django web app.
+### In this you will get all the famous random quotes of famous persons. 
 
 # Images
