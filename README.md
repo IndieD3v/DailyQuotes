@@ -1,4 +1,4 @@
-# Quotes
+# Quotes Project Django
 
 # Images
 <img src="https://github.com/IndieD3v/DailyQuotes-DJANGO/blob/main/Screenshot%20from%202020-10-10%2012-22-14.png?raw=true" />
